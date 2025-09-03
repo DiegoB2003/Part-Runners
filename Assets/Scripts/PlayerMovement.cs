@@ -855,7 +855,7 @@ public class PlayerMovement : NetworkBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        Debug.Log("hit detected");
+        // Debug.Log("hit detected");
         if (other.gameObject.CompareTag("building"))
         {
             int myPartIdx = FindPartIndexByName(other.name);
