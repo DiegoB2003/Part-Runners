@@ -1,7 +1,5 @@
 # Part Runners
 
-[Design Document]()
-
 Team Members: **Diego Bravo**, Musa Elqaq, Nathaniel Herrera
 
 ## How To Play + Controls
