@@ -3,7 +3,7 @@ This game was developed for an Undergraduate project at the University of Illino
 
 [Design Document]()
 
-Team Members: Musa Elqaq, **Diego Bravo**, Nicholas Herrera
+Team Members: **Diego Bravo**, Musa Elqaq, Nathaniel Herrera
 
 # How To Play + Controls
 - 
