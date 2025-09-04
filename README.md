@@ -8,4 +8,4 @@ Team Members: **Diego Bravo**, Musa Elqaq, Nathaniel Herrera
 ## My contributions:
 - 
 
-This game was developed for an Undergraduate project at the University of Illinois at Chicago in a CS 426 course.
+This prototype was developed for an Undergraduate project at the University of Illinois at Chicago in a CS 426 course.
