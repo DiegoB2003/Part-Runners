@@ -1,6 +1,7 @@
 # Part Runners
 
 Team Members: **Diego Bravo**, Musa Elqaq, Nathaniel Herrera
+Download [here](https://github.com/DiegoB2003/Part-Runners/releases/tag/v0.1.1)
 
 ## How To Play + Controls
 Start the game by clicking "Host". Have another player enter the join code displayed at the upper left of your screen and click "Join".
